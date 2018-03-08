@@ -5,11 +5,11 @@ STOMT Shopware Integration https://www.stomt.com
 ## Installation
 
 
-    https://github.com/stomt/stomt-Shopware-extension/archive/master.zip
+    https://github.com/stomt/stomt-Shopware-extension/archive/StomtFeedback.zip
 
-- Download and unzip the Zip file.
-- Go to the directory you just unzipped the Plugin into, and copy the "StomtFeedback"  into  (\custom\plugins)
-- In your administration backend install the Stomt Feedback plugin and go to the configuration section where you can insert your app-id (that you can find in your app-id [https://stomt.com/](https://stomt.com/ "apps")).
+- Download the ziped folder "StomtFeedback.zip".
+- Go In your administration backend to the the Plugin manager into, and upload the ziped folder.
+- go to the configuration section of your plugin where you can insert your app-id (that you can find in your app-id [https://stomt.com/](https://stomt.com/ "apps")) .
 - Finally activate the plugin and customize it to your needs .
 
 
