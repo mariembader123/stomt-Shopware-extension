@@ -5,7 +5,7 @@ STOMT Shopware Integration https://www.stomt.com
 ## Installation
 
 
-    https://github.com/paymill/stomt-Shopware-extension/archive/master.zip
+    https://github.com/stomt/stomt-Shopware-extension/archive/master.zip
 
 - Download and unzip the Zip file.
 - Go to the directory you just unzipped the Plugin into, and copy the "StomtFeedback"  into  (\custom\plugins)
