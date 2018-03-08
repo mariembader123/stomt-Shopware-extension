@@ -31,7 +31,11 @@ var options = {
   
   // Adjust the 'APP_ID' to your application id 
   // you can find it here: https://www.stomt.com/YOUR_PAGE/apps
-  Stomt.push(['addTab',options]);</script>
-          {/literal}
+  Stomt.push(['addTab',options]);
+  Stomt.push(['addFeed',options]);
+  Stomt.push(['addCreate',options]);
+
+</script>
+{/literal}
 
 {/block}
