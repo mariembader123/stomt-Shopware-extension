@@ -9,7 +9,7 @@ STOMT Shopware Integration https://www.stomt.com
 
 - Download and unzip the Zip file.
 - Go to the directory you just unzipped the Plugin into, and copy the "StomtFeedback"  into  (\custom\plugins)
-- In your administration backend install the Stomt Feedback plugin and go to the configuration section where you can insert your app-id (that you can find in your Paymill cockpit [https://stomt.com/](https://stomt.com/ "apps")).
+- In your administration backend install the Stomt Feedback plugin and go to the configuration section where you can insert your app-id (that you can find in your app-id [https://stomt.com/](https://stomt.com/ "apps")).
 - Finally activate the plugin and customize it to your needs .
 
 
