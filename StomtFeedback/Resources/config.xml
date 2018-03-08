@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+
+         
+    
+        
+        
+        <element type="text" scope="locale">
+            <name>stomtContent</name>
+            <label lang="de">Dein app-id</label>
+            <label lang="en">Your app-id</label>
+            <description lang="de">Dieser app-id wird in in der Storefront angezeigt</description>
+            <description lang="en">This app-id will be shown on the stomt.com</description>
+        </element>
+
+        <element type="text">
+            <name>stomttitle</name>
+            <label lang="de">Dein label</label>
+            <label lang="en">Your label</label>
+            <value>Feedback</value>
+        </element>
+        <element type="color">
+            <name>stomtContentBackgroundColor</name>
+            <label lang="de">Hintergrundfarbe</label>
+            <label lang="en">Background Color</label>
+            <value>#0091C9</value>
+        </element>
+
+        <element type="color">
+            <name>stomtContentHoverColor</name>
+            <label lang="de">Überschrift Textfarbe</label>
+            <label lang="en">Hover Color</label>
+            <value>#04729E</value>
+        </element>
+        <element type="color">
+            <name>stomtContentTextColor</name>
+            <label lang="de">Textfarbe</label>
+            <label lang="en">Text Color</label>
+            <value>#FFFFFF</value>
+        </element>
+        
+        <element type="boolean">
+            <name>stomtContentPreload</name>
+            <label lang="de">preload</label>
+            <label lang="en">preload</label>
+            <value>false</value>
+        </element>
+
+
+       <element type="select">
+            <name>stomtContentPosition</name>
+            <label lang="de"> Position</label>
+            <label lang="en">Position</label>
+            <value>right</value>
+
+            <store>
+                <option>
+                    <value>left</value>
+                    <label lang="de">left</label>
+                    <label lang="en">left</label>
+                </option>
+                <option>
+                    <value>right</value>
+                    <label lang="de">right</label>
+                    <label lang="en">right</label>
+                </option>
+            </store>
+        </element>
+    </elements>
+</config>
