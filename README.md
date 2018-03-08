@@ -44,11 +44,11 @@ The parameters can be configured in the admin-panel to initialize the widget.
 ```html
 <div id="stomt_create"></div>
 ```
-1- create a custom model
+1- go to Content>shop pages
 
-2-add the code to source code
+2-select a page to edit
 
-3-add position and save
+3-add the html code and save
 
 
 
@@ -59,11 +59,11 @@ The parameters can be configured in the admin-panel to initialize the widget.
 ```html
 <div id="stomt_feed"></div>
 ```
-1- create a custom model
+1- go to Content>shop pages
 
-2-add the code to source code
+2-select a page to edit
 
-3-add position and save
+3-add the html code and save
 
 ## Frequently Asked Questions
 
