@@ -33,13 +33,13 @@ The parameters can be configured in the admin-panel to initialize the widget.
 
 ### Admin-panel / User interface:
 
-<img alt="Easy Integration" width="400" src="assets/panel.png"/>
+<img alt="Easy Integration" width="400" src="assets/panel.PNG"/>
 
-<img alt="Easy Integration" width="400" src="assets/user_interface.png"/>
+<img alt="Easy Integration" width="400" src="assets/user_interface.PNG"/>
 
 ## Documentation Feed
 ### Create feed:
-<img alt="Easy Integration" align="right" width="400" src="assets/create_feed.png"/>
+<img alt="Easy Integration" align="right" width="400" src="assets/create_feed.PNG"/>
 
 ```html
 <div id="stomt_create"></div>
@@ -54,7 +54,7 @@ The parameters can be configured in the admin-panel to initialize the widget.
 
 
 ### integrate feed:
-<img alt="Easy Integration" align="right" width="400" src="assets/integrate_feed.png"/>
+<img alt="Easy Integration" align="right" width="400" src="assets/integrate_feed.PNG"/>
 
 ```html
 <div id="stomt_feed"></div>
