@@ -54,13 +54,16 @@ The parameters can be configured in the admin-panel to initialize the widget.
 
 
 ### integrate feed:
-<img alt="Easy Integration" align="right" width="400" src="assets/integrate_feed.PNG"/>
+
 
 
 
 ```html
 <div id="stomt_feed"></div>
 ```
+
+
+<img alt="Easy Integration" align="right" width="400" src="assets/integrate_feed.PNG"/>
 1- go to Content>shop pages
 
 2-select a page to edit
