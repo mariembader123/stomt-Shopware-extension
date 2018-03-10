@@ -13,6 +13,15 @@ STOMT Shopware Integration https://www.stomt.com
 - Finally activate the plugin and customize it to your needs .
 
 
+or 
+   
+
+    cd custom/plugin
+    git clone git@github.com:stomt/stomt-Shopware-extension.git StomtFeedback
+
+then open the Plugin manager, install it and active it 
+
+
 
 ### Configuration
 
