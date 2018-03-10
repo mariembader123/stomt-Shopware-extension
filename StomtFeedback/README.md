@@ -7,7 +7,7 @@ STOMT Shopware Integration https://www.stomt.com
 
     https://github.com/stomt/stomt-Shopware-extension/archive/StomtFeedback.zip
 
-- Download the ziped folder "StomtFeedback.zip"..
+- Download the ziped folder "StomtFeedback.zip".
 - Go In your administration backend to the the Plugin manager into, and upload the ziped folder.
 - go to the configuration section of your plugin where you can insert your app-id (that you can find in your app-id [https://stomt.com/](https://stomt.com/ "apps")) .
 - Finally activate the plugin and customize it to your needs .
@@ -33,12 +33,13 @@ The parameters can be configured in the admin-panel to initialize the widget.
 
 ### Admin-panel / User interface:
 
-<img alt="Easy Integration" width="400" src="assets/panel.PNG"/>
+<img alt="Easy Integration" width="400" src="assets/panel.png"/>
 
+<img alt="Easy Integration" width="400" src="assets/user_interface.png"/>
 
 ## Documentation Feed
 ### Create feed:
-<img alt="Easy Integration" align="right" width="400" src="assets/create_feed.PNG"/>
+<img alt="Easy Integration" align="right" width="400" src="assets/create_feed.png"/>
 
 ```html
 <div id="stomt_create"></div>
@@ -53,16 +54,11 @@ The parameters can be configured in the admin-panel to initialize the widget.
 
 
 ### integrate feed:
-
-
-
+<img alt="Easy Integration" align="right" width="400" src="assets/integrate_feed.png"/>
 
 ```html
 <div id="stomt_feed"></div>
 ```
-
-
-<img alt="Easy Integration" align="right" width="400" src="assets/integrate_feed.PNG"/>
 1- go to Content>shop pages
 
 2-select a page to edit
