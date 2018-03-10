@@ -35,7 +35,6 @@ The parameters can be configured in the admin-panel to initialize the widget.
 
 <img alt="Easy Integration" width="400" src="assets/panel.PNG"/>
 
-<img alt="Easy Integration" width="400" src="assets/user_interface.png"/>
 
 ## Documentation Feed
 ### Create feed:
